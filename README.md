@@ -459,4 +459,5 @@ for (let i = 0; i < 5; ++i) alert( i ); //0-4
         }
 
 ## ВЫВОД
+![screen](https://github.com/Ekvilan/curs2lab5/blob/main/18329.jpg)
 решил задачи с использованием Node.js, сделал задание Api
